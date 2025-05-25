@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+8 input 3 output decoder
 
 ## How to test
 
-Explain how to use your project
+* Set high level to one input signal in 8 inputs.
+* Confirm correct value is output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 segment LED can be used to confirm encoded value.
